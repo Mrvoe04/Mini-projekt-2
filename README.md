@@ -1,6 +1,8 @@
 # Mini-projekt-2
 Et projekt lavet for at kunne finde den billigste vej igennem et random genereret pygame grid med en sandkasse mulighed
 
+For at kunne se en pygame, skal der trykkes på " Random " eller " Sandbox " knappen
+
 --------------------------------------
 Billede af Program i praxis
 --------------------------------------
