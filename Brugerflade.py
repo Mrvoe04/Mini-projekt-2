@@ -49,7 +49,7 @@ class GameView(QWidget):
 
         self.sandbox_mode = "goal"
         self.selected_terrain = None
-        self.brush_radius = 1
+        self.brush_radius = 4
 
         self.timer = QTimer(self)
         self.timer.timeout.connect(self.update_game)
